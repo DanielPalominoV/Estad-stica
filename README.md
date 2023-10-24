@@ -1,2 +1,2 @@
-# Estad-stica
-Material_de_estudio_de_estadística
+# Estadistica
+Material de estudio de estadística
